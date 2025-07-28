@@ -56,6 +56,7 @@ This repository contains strategy documentation, product requirements, user pers
 
 - [User Persona](https://www.figma.com/board/GARgGLIGbbOzvxx1sGZnIm/STRAVA-MINDRUN-USER-PERSONA?node-id=0-1)
 - [Prototype](https://www.figma.com/design/9ktXZFfwBHm5Xzu0OFMzF2/STRAVA-MINDRUN?node-id=0-1)
+- [PRD](https://github.com/jumkye/strava-mindrun-feature/blob/33fd869294b5a7daf095f5fa8814c6cba12b8a15/STRAVA%20MINDRUN.pdf)
 
 ## 📢 Go-To-Market Message
 
